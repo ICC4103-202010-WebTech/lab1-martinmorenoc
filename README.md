@@ -1,6 +1,7 @@
-###Lab Assignment 1
-
+#Lab Assignment 1
+-----
 Martín Moreno
+
 <https://news.ycombinator.com/>
 ____
 The structure of any html page consist in a head and a body. The head have metadata information and the body have the information that we see when we are navigating using a browser.
